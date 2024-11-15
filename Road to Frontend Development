@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Frontend Roadmap</title>
+</head>
+<body style="font-family: sans-serif;">
+    <h1>Frontend Development</h1>
+    <hr width="100%" size="1" color="black">
+    <p><b>Frontend development</b> is the development of the <a href="https://en.wikipedia.org/wiki/Graphical_user_interface"><u>graphical user interface</u></a> of a website, through the use of <a href="https://en.wikipedia.org/wiki/HTML"><u>HTML</u></a> <a href="https://en.wikipedia.org/wiki/CSS"><u>CSS</u></a>and <a href="https://en.wikipedia.org/wiki/JavaScript"><u>java script</u></a> so that users can view and interact with that website.</p>
+    <img src="./html-css-javascript.png" alt="html image" style="width: 100%;max-width: 600px;">
+
+       <p><ul><li><b>HTML:</b> The HyperText Markup Language or <i>HTML</i> is the standard markup language for documents designed to be displayed in a web browser.</li></ul></p>
+
+       <p><ul><li><b>CSS:</b> Cascading Style Sheets <i>(CSS)</i> is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML.</li></ul></p>
+
+    <img src="./css.png" alt="css image" style="width: 100%;max-width: 600px;">  
+    <p><ol><li>Pure CSS</li>
+              <p><li> Bootstrap <i>(Framework)</i></li></p>
+              <p><li>Tailwind <i>(Framework)</i></li></p>
+              <p><li> Sass <i>(Preprocessor)</i></li></ol></p> 
+
+ <p><ul><li><b>JavaScript:</b> JavaScript often abbreviated JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. It is use to add functionality in the website.</li></ul></p> 
+        
+    <img src="./javascript.png" alt="javascript" style="width: 100%; max-width: 600px;" >   
+
+        <p><ol><li> Vanilla JS</li></p>
+
+            <p><li>jQuery <i>(Library)</i></li></p>
+                
+            <p><li>React <i>(Framework)</i></li></p>
+                
+            <p><li>Angular <i>(Framework)</i></li></p>
+                
+            <p><li>Vue <i>(Framework)</i></li></p>
+                
+            <p><li>Typescript <i>(Preprocessor)</i></li>
+        </ol></p>
+
+    <p style="text-align:center;">All copyrights © reserved</p>  
+</body>
+</html>
